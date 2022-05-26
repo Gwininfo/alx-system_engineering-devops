@@ -9,3 +9,4 @@ and hidden files
 create a script that creates a directory named my_first_directory in the /tmp/directory
 move the file betty from /tmp/ to /tmp/my_first_directory
 delete the file betty in /tmp/my_first_directory
+delete thr directory my_first_directory that is in the /tmp directory
