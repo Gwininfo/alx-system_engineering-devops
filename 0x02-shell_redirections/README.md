@@ -78,3 +78,8 @@ The files should be sorted by byte values, but case-insensitive (file aaa should
 One file name per line
 
 The listing should end with a new line
+Create a script that decodes acrostics that use the first letter of each line.
+
+
+
+The ‘decoded’ message has to end with a new line
